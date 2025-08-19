@@ -29,13 +29,13 @@
 ###
 
 <div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@/0">
+  <a target="_blank" href="[https://github-readme-medium-recent-article.vercel.app/medium/@/0](https://b9football.medium.com/bayern-munich-2025-recruitment-analysis-c1b85d685417)">
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@/0" alt="Medium post 1"  />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@/1">
+  <a target="_blank" href="[https://github-readme-medium-recent-article.vercel.app/medium/@/1](https://b9football.medium.com/est%C3%AAv%C3%A3o-willian-player-analysis-ee07224012a2)">
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@/1" alt="Medium post 2"  />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@/2">
+  <a target="_blank" href="[https://github-readme-medium-recent-article.vercel.app/medium/@/2](https://docs.google.com/presentation/d/1sgs3W7xGnLWxkI1XdYH-HjxHRIfCGaEDUfoY9kzfmfI/edit?slide=id.g1046a844919_0_0#slide=id.g1046a844919_0_0)">
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@/2" alt="Medium post 3"  />
   </a>
 </div>
